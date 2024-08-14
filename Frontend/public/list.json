@@ -1,0 +1,75 @@
+[
+
+    {
+        "id": 1,
+        "name": "story book",
+        "title": "best story teller for the night and children friendly stories",
+        "price": 500,
+        "category": "free",
+        "image": "https://img.freepik.com/free-photo/stack-books-library_23-2147767228.jpg?t=st=1723212511~exp=1723216111~hmac=f84d06a9c05ac044025c14efc42693d5b72be814fb9698c895210a0879d55729&w=826"
+    },
+    {
+        "id": 2,
+        "name": "science book",
+        "title": "science technologies and discoveries",
+        "price": 1000,
+        "category": "free",
+        "image": "https://img.freepik.com/free-photo/stack-books-library_23-2147767228.jpg?t=st=1723212511~exp=1723216111~hmac=f84d06a9c05ac044025c14efc42693d5b72be814fb9698c895210a0879d55729&w=826"
+    },
+    {
+        "id": 3,
+        "name": "fiction science book",
+        "title": "unpredictable and unbeleivable concepts of this universe ",
+        "price": 1500,
+        "category": "free",
+        "image": "https://img.freepik.com/free-photo/stack-books-library_23-2147767228.jpg?t=st=1723212511~exp=1723216111~hmac=f84d06a9c05ac044025c14efc42693d5b72be814fb9698c895210a0879d55729&w=826"
+    },
+    {
+        "id": 4,
+        "name": "novel",
+        "title": "best novel , award winner",
+        "price": 2000,
+        "category": "free",
+        "image": "https://img.freepik.com/free-photo/stack-books-library_23-2147767228.jpg?t=st=1723212511~exp=1723216111~hmac=f84d06a9c05ac044025c14efc42693d5b72be814fb9698c895210a0879d55729&w=826"
+    },
+    {
+        "id": 5,
+        "name": "law book",
+        "title": "latest law and judgements in IPC CRPC and IEA",
+        "price": 3000,
+        "category": "free",
+        "image": "https://img.freepik.com/free-photo/stack-books-library_23-2147767228.jpg?t=st=1723212511~exp=1723216111~hmac=f84d06a9c05ac044025c14efc42693d5b72be814fb9698c895210a0879d55729&w=826"
+    },
+    {
+        "id": 6,
+        "name": "arts book",
+        "title": "best political book ",
+        "price": 4000,
+        "category": "free",
+        "image": "https://img.freepik.com/free-photo/stack-books-library_23-2147767228.jpg?t=st=1723212511~exp=1723216111~hmac=f84d06a9c05ac044025c14efc42693d5b72be814fb9698c895210a0879d55729&w=826"
+    },
+    {
+        "id": 7,
+        "name": "commerce",
+        "title": "best commerce book",
+        "price": 4500,
+        "category": "free",
+        "image": "https://img.freepik.com/free-photo/stack-books-library_23-2147767228.jpg?t=st=1723212511~exp=1723216111~hmac=f84d06a9c05ac044025c14efc42693d5b72be814fb9698c895210a0879d55729&w=826"
+    },
+    {
+        "id": 8,
+        "name": "engineering book",
+        "title": "best physics engineering science and technology book",
+        "price": 5000,
+        "category": "engineering",
+        "image": "https://img.freepik.com/free-photo/stack-books-library_23-2147767228.jpg?t=st=1723212511~exp=1723216111~hmac=f84d06a9c05ac044025c14efc42693d5b72be814fb9698c895210a0879d55729&w=826"
+    },
+    {
+        "id": 9,
+        "name": "medical science",
+        "title": "best medical prodecures and anatomy biology book ",
+        "price": 6000,
+        "category": "medical",
+        "image": "https://img.freepik.com/free-photo/stack-books-library_23-2147767228.jpg?t=st=1723212511~exp=1723216111~hmac=f84d06a9c05ac044025c14efc42693d5b72be814fb9698c895210a0879d55729&w=826"
+    }
+]

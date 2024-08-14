@@ -1,0 +1,7 @@
+tailwind css for free classes css , no need to write css
+follow the steps to replace in index.css , app.js nad classes and installation of tailwind packages 
+daisy ui for nav bar , daisy has all the premade components
+
+then install the daisy ui in the project , then put the plugins in the modules.export so that it can be exported add th eplugins of daisy ui in the tailwind css
+tailwind and Daisy Ui is very important to be installed and use the components directly
+Daisy ui also has components made with tailwind css
